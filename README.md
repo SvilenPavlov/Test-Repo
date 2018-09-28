@@ -5,9 +5,9 @@ Testing Fund May
 ## heading 1 
 ### heading 2
 
-*listItem 1
-*listItem 2
-*listItem 3
+* listItem 1
+* listItem 2
+* listItem 3
 
 ## Ordered.list
 1. ListItem 1
